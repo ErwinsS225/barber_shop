@@ -1,3 +1,5 @@
+> **Actualisation du 2 novembre 2026 :** les notes historiques ci-dessous sur les migrations non appliquées sont dépassées pour le projet de test isolé. Les migrations 001–005 y sont appliquées et certains tests SQL ont été exécutés ; voir `PHASE_1_STABILISATION.md`. Cela ne constitue pas une validation de production. Les mentions d'une API Go ou d'une plateforme autonome ne reflètent pas l'architecture retenue.
+
 # Plan de réalisation et état d'avancement
 
 Référence : [cahier des charges](cahier-des-charges.md). Le produit est BARBERPRO, une plateforme pour salons de coiffure, et non une application de lavage automobile.
